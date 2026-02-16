@@ -5,22 +5,98 @@ permalink: /publications/
 
 {::nomarkdown}
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
-{:/}
 
-Please see below for the list of publications from the group.
 
-* **VAQUUM: Are Vague Quantifiers Grounded in Visual Data?**  
-Hugh Mee Wong, Rick Nouwen, Albert Gatt<br>
-2025  
-<a href="https://arxiv.org/abs/2502.11874" class="btn btn-blue">paper</a>
+          <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100">
 
----
+              <div class="container-fluid">
+                <div class="searchbar">
+                  <div style="float:right;">
+                    <select class="bibtex_search bibtex_generate_keywords"
+                      search="keywords" bibtex_split_by=",">
+                      <option selected value="">All topics</option>
+                    </select>
+                   
+                  </div>
+              </div>
 
-* **Annotator disagreement in RST annotation schemes**  
-Daniil Ignatev, Denis Paperno, Massimo Poesio<br>
-2025  
-<a href="https://openpublishing.library.umass.edu/scil/article/id/3137/" class="btn btn-blue">paper</a>
+              <br/> <br/>
 
-{::nomarkdown}
+              <div class="bibtex_structure">
+                <div class="group year" extra="DESC number">
+                  <a href="#top" style="display: inline"><em>(Top)</em></a>
+                  <div style="padding-bottom:10px;"></div>
+                  <div class="sort journal" extra="DESC string">
+                     <div class="templates"></div>
+                  </div>
+                </div>
+              </div>
+
+              <div id="bibtex_display">
+               <div class="if bibtex_template" style="display: none;">
+                  <ul> 
+                    <li>
+                      <span class="if title">
+                        <strong><span class="title"></span></strong>
+                      </span>
+                      <span class="if url">
+                        <a class="bibtexVar" target=_blank href="+URL+" extra="url">
+                          <!-- <span class="url"></span> -->
+                          <i class="bx bx-link"></i>
+                        </a>
+                      </span>
+                      
+                      <span class="if archivePrefix">
+                        <a class="bibtexVar" target=_blank href="+EPRINTURL+" extra="eprinturl">                            
+                          [<span class="archivePrefix">arXiv</span>]
+                        </a>
+                      </span>
+                      <div class="if author">
+                        <span class="author"></span>
+                      </div>
+                      
+                      
+                      <div>
+                        <span class="if journal"><em><span class="journal"></span></em>,</span>
+                        <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
+                        <span class="if editor"><span class="editor"></span> (editors),</span>
+                        <span class="if publisher"><em><span class="publisher"></span></em>,</span>
+                        <!-- <span class="if !journal number">Technical report <span class="number"></span>,</span> -->
+                        <span class="if institution"><span class="institution"></span>,</span>
+                        <!-- <span class="if address"><span class="address"></span>,</span> -->
+                        <span class="if volume"><span class="volume"></span>,</span>
+                        <span class="if journal number">(<span class="number"></span>),</span>
+                        <span class="if pages"> pages <span class="pages"></span>,</span>
+                        <!-- <span class="if month"><span class="month"></span>,</span> -->
+                        <span class="if year"><span class="year"></span>.</span>
+                        <span class="if keywords"><span style="display: none" class="keywords"></span></span>
+                        <!-- <span class="if note"><span class="note"></span>.</span> -->
+<!-- 
+                        <span class="if eprint">
+                          <a class="bibtexVar" role="button"><span class="eprint"></span></a>
+
+                        </span> -->
+
+                        <!-- <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+                          [bib]
+                        </a> -->
+                      </div>
+                       
+
+<!--                       <div class="bibtexVar collapse" id="bib+BIBTEXKEY+" extra="BIBTEXKEY">
+                      <div class="well">
+                        <pre><span class="bibtexraw noread"></span></pre>
+                      </div>
+                      </div>
+                      <div style="display:none"><span class="bibtextype"></span></div>
+                      <div style="display:none"><span class="if topic"><span class="topic"></span></span></div>
+ -->                    </li>
+                  </ul>
+                </div>
+              </div>
+
+          </div>
+        </div>
+
 </div>
 {:/}
