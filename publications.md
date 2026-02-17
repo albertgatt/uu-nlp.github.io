@@ -7,7 +7,7 @@ permalink: /publications/
 <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
 
 
-Below is a list of some of our recent publications. More complete lists can be found from individual members' pages.
+Below is a list of some of our recent publications. More complete lists can be found from individual members' pages. <br/><br/>
 
           <!-- <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100"> -->
 
