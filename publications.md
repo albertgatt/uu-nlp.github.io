@@ -9,7 +9,7 @@ permalink: /publications/
 
 Below is a list of some of our recent publications. More complete lists can be found from individual members' pages.
 
-          <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100">
+          <!-- <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100"> -->
 
 <!--               <div class="container-fluid">
                 <div class="searchbar">
@@ -89,7 +89,7 @@ Below is a list of some of our recent publications. More complete lists can be f
               </div>
 
           </div>
-        </div>
+        <!-- </div> -->
 
 </div>
 {:/}
