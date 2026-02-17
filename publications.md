@@ -9,7 +9,7 @@ permalink: /publications/
 
           <div class="col-lg-9 content order-lg-2 order-2" data-aos="fade-left" data-aos-delay="100">
 
-              <div class="container-fluid">
+<!--               <div class="container-fluid">
                 <div class="searchbar">
                   <div style="float:right;">
                     <select class="bibtex_search bibtex_generate_keywords"
@@ -20,11 +20,11 @@ permalink: /publications/
                   </div>
               </div>
 
-              <br/> <br/>
+              <br/> <br/> -->
 
               <div class="bibtex_structure">
                 <div class="group year" extra="DESC number">
-                  <a href="#top" style="display: inline"><em>(Top)</em></a>
+                  <!-- <a href="#top" style="display: inline"><em>(Top)</em></a> -->
                   <div style="padding-bottom:10px;"></div>
                   <div class="sort journal" extra="DESC string">
                      <div class="templates"></div>
@@ -71,15 +71,6 @@ permalink: /publications/
                         <span class="if year"><span class="year"></span>.</span>
                         <span class="if keywords"><span style="display: none" class="keywords"></span></span>
                         <!-- <span class="if note"><span class="note"></span>.</span> -->
-<!-- 
-                        <span class="if eprint">
-                          <a class="bibtexVar" role="button"><span class="eprint"></span></a>
-
-                        </span> -->
-
-                        <!-- <a class="bibtexVar" role="button" data-toggle="collapse" href="#bib+BIBTEXKEY+" aria-expanded="false" aria-controls="bib+BIBTEXKEY+" extra="BIBTEXKEY">
-                          [bib]
-                        </a> -->
                       </div>
                        
 
