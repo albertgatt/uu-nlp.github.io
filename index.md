@@ -37,6 +37,8 @@ In our research, we collaborate with a broad network of researchers, including c
 * [Dealing with Meaning Variation](https://sites.google.com/view/dealingwithmeaningvariation/home)
 * Multimodal NLP
 
+<hr style="margin: 28px 0;">
+
 ## News
 
 * UU-NLP will be organising [INLG 2026: the 19th International Conference on Natural Language Generation](https://2026.inlgmeeting.org/)! 
