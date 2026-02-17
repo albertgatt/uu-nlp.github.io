@@ -31,18 +31,20 @@ In our research, we collaborate with a broad network of researchers, including c
 
 <hr style="margin: 28px 0;">
 
-## News
-
-* UU-NLP will be organising [INLG 2026: the 19th International Conference on Natural Language Generation](https://2026.inlgmeeting.org/)! *
-* We're at ACL 2025 in Vienna!*
-
-<hr style="margin: 28px 0;">
-
 ## Research Labs
 
 * [NLP and Society](https://nlpsoc.github.io/)
 * [Dealing with Meaning Variation](https://sites.google.com/view/dealingwithmeaningvariation/home)
 * Multimodal NLP
+
+## News
+
+* UU-NLP will be organising [INLG 2026: the 19th International Conference on Natural Language Generation](https://2026.inlgmeeting.org/)! 
+* We're at ACL 2025 in Vienna!
+
+<hr style="margin: 28px 0;">
+
+
 
 <hr style="margin: 28px 0;">
 
