@@ -48,7 +48,9 @@ permalink: /people/
       <img src="{{ 'assets/images/marin.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="marijn">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Marijn Schraagen</strong><br>
+        <strong>
+        <a href="https://www.uu.nl/medewerkers/MPSchraagen" target="_blank">Marijn Schraagen</a>
+      </strong><br>
         
       </div>
     </div>
@@ -148,7 +150,7 @@ permalink: /people/
       <img src="{{ 'assets/images/sanne.jpg' | relative_url }}" class="img-thumbnail rounded"
            style="width: 150px; height: 150px; object-fit: cover;" alt="sanne">
       <div class="mt-2 p-2 rounded bg-light">
-        <strong>Sanne Hoekens</strong><br>
+        <strong>Sanne Hoeken</strong><br>
         Dealing with Meaning Variation
       </div>
     </div>
