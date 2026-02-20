@@ -4,7 +4,8 @@ title: People
 permalink: /people/
 ---
 
-<div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
+<!-- <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;"> -->
+<div class="container my-5 px-3 px-md-5">
   
   <div class="row text-center">
   <div class="col-md-6 mb-4">

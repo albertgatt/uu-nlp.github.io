@@ -3,7 +3,8 @@ layout: page
 title: ""
 ---
 {::nomarkdown}
-<div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;">
+<!-- <div class="container" style="margin-top: 60px; margin-bottom: 60px; padding-left: 200px; padding-right: 200px;"> -->
+<div class="container my-5 px-3 px-md-5">
 {:/}
 
 <img src="{{ 'assets/images/logo_nlp.png' | relative_url }}"
